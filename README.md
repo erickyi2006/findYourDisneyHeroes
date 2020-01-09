@@ -8,4 +8,5 @@ Disney Heroes - helps to find your disney heroes
 4. ngx-leaflet v5.0.3 ![ngx-leaflet](images/ngx-leaflet.png)
 5. nodejs v 13.5 ![nodejs](images/nodejs.png)
 6. mongodb v ??? ![mongodb](images/mongodb.png)
+7. git flow
 
