@@ -2,19 +2,22 @@
 Disney Heroes - helps to find your disney heroes 
 
 ## Screenshots
-Main screen
+### Main screen
 ![Welcome screen](images/main.png)
 
-Explore the heros
+### Explore the heros
 ![Zoom](images/main.zoomin.png)
 ![Tooltips](images/main-tooltips.png)
 
-Show most popular heroes 
+### Show most popular heroes 
 ![Top5](images/main-top5.png)
 ![Top10](images/main-top10.png)
 ![Top20](images/main-top20.png)
 
-
+### Team Statistics on selected heros
+![Bar chart](images/jafar-bar.png)
+![Horizontal chart](images/jafar-horizontal.png)
+![Pie chart](images/jafar-pie.png)
 
 ## Technologies
 1. Angular v 8.2.14 ![angular](images/angular.png)
@@ -25,3 +28,7 @@ Show most popular heroes
 6. mongodb v ??? ![mongodb](images/mongodb.png)
 7. git flow
 
+## Angular Challenges
+1. Dynamic Components
+2. Router navigation for out of zone
+3. Redesigned using a common symbolic node_modules
