@@ -32,3 +32,4 @@ Disney Heroes - helps to find your disney heroes
 1. Dynamic Components
 2. Router navigation for out of zone
 3. Redesigned using a common symbolic node_modules
+4. Fixed initialising of component that depends on the completion of data loading in a service
