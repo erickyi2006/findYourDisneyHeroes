@@ -19,6 +19,12 @@ Disney Heroes - helps to find your disney heroes
 ![Horizontal chart](images/jafar-horizontal.png)
 ![Pie chart](images/jafar-pie.png)
 
+### Role Combinations on selected heros
+![Roles](images/roles-joy.png)
+
+### Popular friendships on selected heros
+![Friendships](images/friendship-joy.png)
+
 ## Technologies
 1. Angular v 8.2.14 ![angular](images/angular.png)
 2. Material Design v 8.2.3 ![angular-material](images/material.png)
@@ -33,3 +39,5 @@ Disney Heroes - helps to find your disney heroes
 2. Router navigation for out of zone
 3. Redesigned using a common symbolic node_modules
 4. Fixed initialising of component that depends on the completion of data loading in a service
+5. Fixed resource loading in production build with aot=true 
+6. Customized a readonly mat-slider
