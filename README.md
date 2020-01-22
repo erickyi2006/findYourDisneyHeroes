@@ -1,6 +1,8 @@
 # findYourDisneyHeroes
 Disney Heroes - helps to find your disney heroes 
 
+Demo App: http://13.229.70.212:8168/disney-heroes/
+
 ## Screenshots
 ### Main screen
 ![Welcome screen](images/main.png)
