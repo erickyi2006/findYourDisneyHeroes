@@ -8,8 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-<<<<<<< HEAD
-=======
 ## [1.5] - 22-Jan-2020
 
 ### Changed
@@ -26,7 +24,6 @@ Fixed production build to load resources/images correctly
 Added toggle badges
 Added hero roles combination
 
->>>>>>> develop
 ## [1.3] - 18-Jan-2020
 
 ### Changed
