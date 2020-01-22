@@ -8,6 +8,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+<<<<<<< HEAD
+=======
+## [1.5] - 22-Jan-2020
+
+### Changed
+Fixed mat-slider to be readonly and always showing label
+Redesigned layout of friendship using flex
+Changed team statistics default chart to horizontal for better UX
+
+## [1.4] - 21-Jan-2020
+
+### Changed
+Fixed production build to load resources/images correctly
+
+### Added
+Added toggle badges
+Added hero roles combination
+
+>>>>>>> develop
 ## [1.3] - 18-Jan-2020
 
 ### Changed
