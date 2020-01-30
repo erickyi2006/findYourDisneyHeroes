@@ -43,3 +43,5 @@ Demo App: http://13.229.70.212:8168/disney-heroes/
 4. Fixed initialising of component that depends on the completion of data loading in a service
 5. Fixed resource loading in production build with aot=true 
 6. Customized a readonly mat-slider
+7. Customized tooltips without using ViewEncapsulation
+
