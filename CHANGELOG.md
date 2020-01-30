@@ -8,12 +8,32 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.6] - 30-Jan-2020
+
+### Added
+Added more popular types - Control,Damage,Support,Tank
+Added tooltip to popular component
+Added percent to Friendships by friend
+Added all markers
+Added Bogo, Elasticgirl, Kida, Sally, Vanellope
+
+### Changed
+Fixed disappering of hero action slider when screen is too small
+Remove buffer warnings during builds
+
+
 ## [1.5] - 22-Jan-2020
+
+### Added
+Added logService to log accesses from client
+Added Rapunzel, Hercules, Quorra
+
 
 ### Changed
 Fixed mat-slider to be readonly and always showing label
 Redesigned layout of friendship using flex
 Changed team statistics default chart to horizontal for better UX
+Changed role combination to display short text
 
 ## [1.4] - 21-Jan-2020
 
