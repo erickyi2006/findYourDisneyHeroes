@@ -1,0 +1,279 @@
+{
+    "role:t1:d3:s1:c0": [
+        "Eve,Moana,Nick.Wilde,Rex,Yax,",
+        "Buzz,Flynn,Merida,Mike,Sulley,",
+        "Animal,Beast,Duke.Caboom,Gonzo,Stitch,",
+        "Anger,Duke.Caboom,Felix,Joy,Stitch,",
+        "Anger,Gonzo,Joy,Miss.Piggy,Stitch,"
+    ],
+    "role:t1:d1:s2:c1": [
+        "Alice,Frozone,Mr.Incredible,Stitch,Violet,",
+        "Ducky.Bunny,Goofy,Jafar,Joy,Timon.Pumbaa,",
+        "Goofy,Jafar,Joy,Randall,Timon.Pumbaa,",
+        "Hercules,Jafar,Joy,Miss.Piggy,Timon.Pumbaa,",
+        "Animal,Gonzo,Joy,Maleficent,Randall,",
+        "Anger,Donald,Mr.Incredible,Rafiki,Timon.Pumbaa,",
+        "Bo.Peep,Jafar,Launchpad,Miss.Piggy,Timon.Pumbaa,",
+        "Animal,Gonzo,Joy,Maleficent,Miss.Piggy,",
+        "Donald,Duke.Caboom,Goofy,Megara,Yax,",
+        "Beast,Gaston,Gonzo,Megara,Rafiki,",
+        "Animal,Felix,Hook,Megara,Randall,",
+        "Bo.Peep,Rafiki,Randall,Tia.Dalma,Violet,",
+        "Baymax,Ducky.Bunny,Jafar,Joy,Timon.Pumbaa,",
+        "Anger,Donald,Launchpad,Miguel,Oogie,",
+        "Baymax,Dash,Jafar,Launchpad,Timon.Pumbaa,"
+    ],
+    "role:t0:d3:s1:c1": [
+        "Animal,Barbossa,Beast,Merlin,Randall,",
+        "Beast,Maleficent,Megara,Megavolt,Scar,",
+        "Anger,Finnick,Megara,Miss.Piggy,Stitch,",
+        "Anger,Animal,Beast,Merlin,Scar,",
+        "Anger,Beast,Hook,Joy,Randall,",
+        "Beast,Ducky.Bunny,Jafar,Megara,Miss.Piggy,",
+        "Beast,Dash,Jafar,Joy,Peter.Pan,"
+    ],
+    "role:t1:d4:s0:c0": [
+        "Anger,Baymax,Dark.Wing,Miss.Piggy,Scrooge,",
+        "Goofy,Megavolt,Moana,Randall,Scrooge,",
+        "Anger,Beast,Bo.Peep,Dash,Peter.Pan,"
+    ],
+    "role:t3:d1:s0:c1": [
+        "Baymax,Goofy,Hades,Jafar,Peter.Pan,",
+        "Baymax,Goofy,Hades,Jafar,Randall,",
+        "Donald,Gonzo,Goofy,Hades,Peter.Pan,",
+        "Bo.Peep,Gonzo,Goofy,Jafar,Miss.Piggy,",
+        "Baymax,Gonzo,Hades,Jafar,Peter.Pan,",
+        "Baymax,Ducky.Bunny,Gonzo,Goofy,Jafar,",
+        "Baymax,Ducky.Bunny,Goofy,Hades,Jafar,"
+    ],
+    "role:t1:d0:s2:c2": [
+        "Donald,Felix,Hook,Joy,Megara,",
+        "Donald,Gonzo,Jafar,Joy,Timon.Pumbaa,",
+        "Bo.Peep,Hook,Jafar,Joy,Megara,"
+    ],
+    "role:t0:d2:s3:c0": [
+        "Miss.Piggy,Rafiki,Randall,Yax,Yzma,",
+        "Anger,Joy,Megara,Miss.Piggy,Timon.Pumbaa,",
+        "Animal,Joy,Megara,Miss.Piggy,Stitch,",
+        "Joy,Megara,Peter.Pan,Randall,Timon.Pumbaa,",
+        "Anger,Beast,Megara,Mickey,Miguel,",
+        "Animal,Megara,Mickey,Miss.Piggy,Stitch,",
+        "Anger,Animal,Megara,Miss.Piggy,Rafiki,"
+    ],
+    "role:t1:d2:s2:c0": [
+        "Felix,Miss.Piggy,Peter.Pan,Timon.Pumbaa,Yax,",
+        "Animal,Beast,Duke.Caboom,Gonzo,Joy,",
+        "Anger,Gonzo,Joy,Megara,Miss.Piggy,",
+        "Anger,Gonzo,Joy,Miss.Piggy,Timon.Pumbaa,",
+        "Gonzo,Megavolt,Rafiki,Randall,Yzma,",
+        "Anger,Gonzo,Launchpad,Megara,Miss.Piggy,",
+        "Olaf,Rafiki,Randall,Stitch,Timon.Pumbaa,",
+        "Elsa,Olaf,Rafiki,Randall,Timon.Pumbaa,",
+        "Bo.Peep,Joy,Peter.Pan,Rafiki,Simba.Nala,",
+        "Animal,Felix,Megara,Peter.Pan,Randall,",
+        "Ducky.Bunny,Megara,Oogie,Randall,Timon.Pumbaa,",
+        "Gonzo,Megara,Peter.Pan,Randall,Timon.Pumbaa,"
+    ],
+    "role:t0:d1:s2:c2": [
+        "Donald,Hook,Joy,Megara,Randall,",
+        "Anger,Hiro,Hook,Megara,Rafiki,",
+        "Barbossa,Gaston,Hook,Rafiki,Timon.Pumbaa,",
+        "Animal,Duke.Caboom,Gaston,Jasmine,Timon.Pumbaa,",
+        "Hook,Launchpad,Maleficent,Randall,Yzma,",
+        "Animal,Donald,Hook,Rafiki,Randall,",
+        "Anger,Hook,Huey.D.L,Launchpad,Rafiki,",
+        "Animal,Hook,Joy,Maleficent,Randall,",
+        "Animal,Hook,Jasmine,Joy,Randall,",
+        "Beast,Hook,Huey.D.L,Megara,Rafiki,",
+        "Animal,Gaston,Hook,Randall,Timon.Pumbaa,",
+        "Animal,Gaston,Hook,Rafiki,Randall,",
+        "Donald,Ducky.Bunny,Jafar,Joy,Timon.Pumbaa,",
+        "Animal,Gaston,Maleficent,Megara,Miss.Piggy,",
+        "Animal,Donald,Hook,Joy,Stitch,",
+        "Animal,Hook,Maleficent,Randall,Timon.Pumbaa,"
+    ],
+    "role:t1:d2:s1:c1": [
+        "Animal,Ducky.Bunny,Elsa,Merlin,Olaf,",
+        "Ducky.Bunny,Goofy,Jafar,Peter.Pan,Timon.Pumbaa,",
+        "Beast,Bo.Peep,Huey.D.L,Rafiki,Scrooge,",
+        "Donald,Gonzo,Megara,Miss.Piggy,Stitch,",
+        "Bo.Peep,Huey.D.L,Megara,Miss.Piggy,Peter.Pan,",
+        "Anger,Beast,Gaston,Gonzo,Megara,",
+        "Animal,Hook,Olaf,Randall,Stitch,",
+        "Beast,Bo.Peep,Hook,Megara,Randall,",
+        "Ducky.Bunny,Gonzo,Jafar,Peter.Pan,Timon.Pumbaa,",
+        "Baymax,Beast,Gaston,Rafiki,Stitch,",
+        "Baymax,Hook,Jack.Jack,Joy,Stitch,",
+        "Ducky.Bunny,Goofy,Jafar,Miss.Piggy,Rafiki,",
+        "Goofy,Jasmine,Megavolt,Miguel,Scar,",
+        "Anger,Bo.Peep,Ducky.Bunny,Jafar,Joy,",
+        "Animal,Beast,Goofy,Merlin,Miss.Piggy,",
+        "Animal,Goofy,Huey.D.L,Peter.Pan,Simba.Nala,"
+    ],
+    "role:t0:d1:s1:c3": [
+        "Huey.D.L,Jafar,Maleficent,Peter.Pan,Timon.Pumbaa,",
+        "Anger,Donald,Gaston,Jafar,Joy,",
+        "Animal,Gaston,Hook,Maleficent,Randall,",
+        "Donald,Hook,Huey.D.L,Linguini,Randall,"
+    ],
+    "role:t0:d1:s3:c1": [
+        "Donald,Launchpad,Megara,Rafiki,Randall,",
+        "Animal,Hook,Launchpad,Megara,Randall,",
+        "Animal,Hook,Joy,Rafiki,Randall,",
+        "Animal,Hook,Joy,Launchpad,Randall,",
+        "Animal,Hook,Joy,Megara,Miss.Piggy,",
+        "Animal,Joy,Maleficent,Megara,Stitch,",
+        "Animal,Gizmo,Hook,Randall,Timon.Pumbaa,",
+        "Animal,Joy,Maleficent,Miss.Piggy,Rafiki,",
+        "Animal,Joy,Maleficent,Megara,Merida,",
+        "Animal,Donald,Joy,Megara,Miss.Piggy,",
+        "Animal,Hook,Joy,Randall,Timon.Pumbaa,"
+    ],
+    "role:t0:d2:s2:c1": [
+        "Animal,Hook,Megara,Peter.Pan,Randall,",
+        "Animal,Gaston,Peter.Pan,Rafiki,Randall,",
+        "Animal,Ducky.Bunny,Gaston,Megara,Peter.Pan,",
+        "Animal,Donald,Megara,Miss.Piggy,Peter.Pan,",
+        "Hook,Megara,Peter.Pan,Randall,Timon.Pumbaa,",
+        "Animal,Hook,Scar,Simba.Nala,Timon.Pumbaa,",
+        "Animal,Hook,Joy,Randall,Stitch,",
+        "Anger,Gaston,Megara,Miss.Piggy,Timon.Pumbaa,",
+        "Anger,Hiro,Megara,Peter.Pan,Rafiki,",
+        "Animal,Duke.Caboom,Huey.D.L,Randall,Timon.Pumbaa,",
+        "Animal,Gaston,Joy,Moana,Randall,",
+        "Anger,Animal,Beast,Maleficent,Timon.Pumbaa,",
+        "Anger,Beast,Gaston,Megara,Rafiki,",
+        "Animal,Beast,Hook,Joy,Peter.Pan,"
+    ],
+    "role:t2:d2:s0:c1": [
+        "Baymax,Beast,Ducky.Bunny,Gaston,Goofy,",
+        "Baymax,Ducky.Bunny,Goofy,Jafar,Peter.Pan,",
+        "Ducky.Bunny,Gonzo,Goofy,Hook,Peter.Pan,",
+        "Baymax,Ducky.Bunny,Goofy,Jafar,Randall,",
+        "Baymax,Beast,Ducky.Bunny,Goofy,Jafar,",
+        "Beast,Bo.Peep,Duke.Caboom,Gonzo,Hook,",
+        "Baymax,Beast,Ducky.Bunny,Maleficent,Olaf,",
+        "Baymax,Beast,Gonzo,Hook,Peter.Pan,",
+        "Duke.Caboom,Gonzo,Jafar,Olaf,Scrooge,"
+    ],
+    "role:t0:d1:s4:c0": [
+        "Animal,Megara,Mickey,Miss.Piggy,Timon.Pumbaa,",
+        "Animal,Joy,Megara,Miss.Piggy,Timon.Pumbaa,",
+        "Animal,Joy,Megara,Rafiki,Randall,"
+    ],
+    "role:t3:d0:s0:c2": [
+        "Baymax,Gonzo,Goofy,Hook,Jafar,",
+        "Baymax,Donald,Goofy,Hades,Jafar,"
+    ],
+    "role:t1:d1:s3:c0": [
+        "Animal,Felix,Joy,Megara,Randall,",
+        "Animal,Gonzo,Joy,Megara,Miss.Piggy,"
+    ],
+    "role:t2:d0:s0:c3": [
+        "Baymax,Hook,Jafar,Maleficent,Olaf,"
+    ],
+    "role:t2:d3:s0:c0": [
+        "Beast,Felix,Peter.Pan,Rex,Stitch,",
+        "Gonzo,Hercules,Madam.Mim,Megavolt,Simba.Nala,"
+    ],
+    "role:t2:d1:s1:c1": [
+        "Baymax,Goofy,Jafar,Joy,Peter.Pan,",
+        "Bo.Peep,Goofy,Jafar,Peter.Pan,Timon.Pumbaa,",
+        "Animal,Bo.Peep,Gaston,Gonzo,Quorra,",
+        "Felix,Gonzo,Hook,Joy,Randall,",
+        "Ducky.Bunny,Goofy,Hades,Jafar,Timon.Pumbaa,",
+        "Anger,Joy,Maleficent,Olaf,Sulley,",
+        "Bo.Peep,Ducky.Bunny,Goofy,Jafar,Timon.Pumbaa,",
+        "Baymax,Ducky.Bunny,Goofy,Jafar,Timon.Pumbaa,",
+        "Goofy,Hades,Jafar,Rafiki,Randall,",
+        "Elsa,Goofy,Jafar,Olaf,Timon.Pumbaa,",
+        "Goofy,Hades,Jafar,Randall,Timon.Pumbaa,",
+        "Baymax,Gonzo,Jafar,Megara,Peter.Pan,",
+        "Bo.Peep,Felix,Hook,Randall,Yax,"
+    ],
+    "role:t1:d1:s1:c2": [
+        "Beast,Goofy,Hook,Jafar,Timon.Pumbaa,",
+        "Hades,Hook,Joy,Maleficent,Randall,",
+        "Beast,Donald,Jafar,Mr.Incredible,Rafiki,",
+        "Beast,Goofy,Huey.D.L,Jafar,Timon.Pumbaa,",
+        "Animal,Gonzo,Hook,Maleficent,Randall,",
+        "Animal,Ducky.Bunny,Gaston,Goofy,Jafar,",
+        "Goofy,Jafar,Jasmine,Peter.Pan,Rafiki,",
+        "Beast,Goofy,Jafar,Maleficent,Timon.Pumbaa,",
+        "Gaston,Goofy,Jafar,Randall,Timon.Pumbaa,",
+        "Donald,Felix,Hook,Rafiki,Randall,"
+    ],
+    "role:t2:d0:s3:c0": [
+        "Animal,Felix,Gonzo,Joy,Megara,"
+    ],
+    "role:t1:d3:s0:c1": [
+        "Baymax,Beast,Duke.Caboom,Jafar,Randall,",
+        "Bo.Peep,Duke.Caboom,Maleficent,Miss.Piggy,Randall,",
+        "Anger,Barbossa,Baymax,Merlin,Randall,",
+        "Ducky.Bunny,Goofy,Jafar,Peter.Pan,Randall,"
+    ],
+    "role:t2:d2:s1:c0": [
+        "Elsa,Goofy,Megara,Olaf,Peter.Pan,",
+        "Baymax,Goofy,Peter.Pan,Scar,Timon.Pumbaa,",
+        "Anger,Animal,Elsa,Goofy,Olaf,"
+    ],
+    "role:t0:d2:s0:c3": [
+        "Beast,Gaston,Huey.D.L,Jafar,Simba.Nala,"
+    ],
+    "role:t0:d3:s0:c2": [
+        "Hook,Maleficent,Megavolt,Peter.Pan,Randall,",
+        "Hook,Huey.D.L,Megavolt,Peter.Pan,Randall,"
+    ],
+    "role:t1:d2:s0:c2": [
+        "Beast,Donald,Goofy,Jafar,Megavolt,"
+    ],
+    "role:t0:d2:s1:c2": [
+        "Anger,Donald,Jasmine,Megara,Miss.Piggy,",
+        "Animal,Hook,Maleficent,Randall,Stitch,",
+        "Animal,Donald,Hook,Peter.Pan,Randall,",
+        "Beast,Donald,Jasmine,Joy,Peter.Pan,",
+        "Beast,Hook,Maleficent,Rafiki,Randall,",
+        "Gaston,Hook,Joy,Randall,Stitch,"
+    ],
+    "role:t0:d4:s1:c0": [
+        "Anger,Beast,Megara,Miss.Piggy,Peter.Pan,",
+        "Beast,Ducky.Bunny,Peter.Pan,Stitch,Timon.Pumbaa,",
+        "Beast,Ducky.Bunny,Miss.Piggy,Simba.Nala,Yzma,"
+    ],
+    "role:t0:d4:s0:c1": [
+        "Duke.Caboom,Hook,Randall,Simba.Nala,Stitch,",
+        "Duke.Caboom,Hook,Megavolt,Randall,Stitch,",
+        "Anger,Ducky.Bunny,Finnick,Miss.Piggy,Randall,"
+    ],
+    "role:t2:d0:s2:c1": [
+        "Goofy,Hades,Jafar,Joy,Timon.Pumbaa,"
+    ],
+    "role:t1:d0:s3:c1": [
+        "Animal,Felix,Launchpad,Maleficent,Megara,"
+    ],
+    "role:t1:d1:s0:c3": [
+        "Bo.Peep,Gaston,Hiro,Hook,Randall,",
+        "Beast,Bo.Peep,Donald,Hook,Huey.D.L,"
+    ],
+    "role:t0:d3:s2:c0": [
+        "Animal,Duke.Caboom,Joy,Peter.Pan,Randall,"
+    ],
+    "role:t0:d2:s2:c0": [
+        "Animal,Megara,Miss.Piggy,Stitch,"
+    ],
+    "role:t3:d0:s1:c1": [
+        "Baymax,Goofy,Hades,Jafar,Timon.Pumbaa,"
+    ],
+    "role:t3:d2:s0:c0": [
+        "Beast,Bo.Peep,Hercules,Olaf,Stitch,"
+    ],
+    "role:t1:d0:s1:c3": [
+        "Bo.Peep,Hook,Huey.D.L,Merlin,Timon.Pumbaa,"
+    ],
+    "role:t3:d1:s1:c0": [
+        "Bo.Peep,Goofy,Olaf,Peter.Pan,Timon.Pumbaa,"
+    ],
+    "role:t2:d0:s1:c2": [
+        "Donald,Goofy,Hades,Jafar,Launchpad,"
+    ]
+}

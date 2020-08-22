@@ -8,6 +8,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.8] - 22-Aug-2020
+
+### Added
+Added heroes - Davy.Jones,Goliath,Jumba,King.Louie,Kristoff.Sve,Li.Shang,Maximus,Mulan,Mushu,Shan.Yu,Syndrome,
+Updated stats for August
+
+## [1.7] - 28-Feb-2020
+
+### Added
+Added heroes - Gerald, Hank.Dory, Powerline, Tron
+Updated stats for February
+
 ## [1.6] - 30-Jan-2020
 
 ### Added
