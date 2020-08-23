@@ -11,7 +11,8 @@ var FRIENDS = require("./input/lookupFriendships.json");
 const PRINT_OUTPUT = "matching [MATCH_COUNT]. found: [MATCHED]/[TOTAL]";
 const OUTPUT_FOLDER = "output/";
 const LIMIT = 50;
-var FILE = "/projects/tutorials/disney-heroes/data/heroes-202008.csv";
+var FILE = "./input/heroes-202008.csv";
+var COLLECTION_FILE = "./input/collections.csv";
 if (process.argv.length >= 3) {
     FILE = process.argv[2];
 };
@@ -32,6 +33,45 @@ function dictionaryToArray(lookup) {
         array.push(value);
     }
     return array;
+}
+
+function loadCollection(filename, cb) {
+    var result = {
+        collections: {}
+    };
+    var lookup = {};
+    fs.readFile(filename, function (err, data) {
+        if (err) {
+            console.error("failed to load", filename);
+            return cb(err);
+        }
+        else {
+            var contents = "" + data;
+            var lines = contents.split("\n");
+            var line = lines[0];
+            var lineIdx = 1; // skip the headers
+            for (; lineIdx < lines.length; lineIdx++) {
+                var heroes = [];
+                line = lines[lineIdx];
+                line = line.replace("\r", "");
+                if (line.length > 0) {
+                    var tokens = line.split(",");
+                    if (tokens) {
+                        var collectionName = tokens[0];
+                        for (var tokenIdx = 2; // skip the total
+                            tokenIdx < tokens.length; tokenIdx++) {
+                            var token = tokens[tokenIdx];
+                            if (token !== '-') {
+                                heroes.push(token);
+                            }
+                        }
+                    }
+                    result.collections[collectionName] = heroes;
+                }
+            }
+        }
+        return cb(null, result);
+    });
 }
 
 function loadHeroes(filename, cb) {
@@ -431,6 +471,15 @@ var heroesResult = {
 };
 async.waterfall(
     [
+        function (cb) {
+            loadCollection(COLLECTION_FILE, function(err, result){
+                console.log("collection ---");
+                var isPretty = false;
+                var filename = OUTPUT_FOLDER + "collections.json";
+                saveJsonSync(filename, result.collections, isPretty);
+                return cb(null);
+            });
+        },
         function (cb) {
             loadHeroes(FILE, function (err, result) {
                 if (err) {
