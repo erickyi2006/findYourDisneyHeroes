@@ -1,10 +1,12 @@
 {
     "Aladdin": { "role":  "Damage", "pos": "Front"},
     "Alice": { "role":  "Support", "pos": "Back"},
+    "Angel": { "role":  "Control", "pos": "Back"},
     "Anger": { "role":  "Damage", "pos": "Mid"},
     "Animal": { "role":  "Support", "pos": "Back"},
     "Barbossa": { "role":  "Damage", "pos": "Back"},
     "Baloo": { "role":  "Tank", "pos": "Front"},
+    "Basil": { "role":  "Control", "pos": "Back"},
     "Baymax": { "role":  "Tank", "pos": "Front"},
     "Beast": { "role":  "Damage", "pos": "Front"},
     "Belle": { "role":  "Damage", "pos": "Mid"},

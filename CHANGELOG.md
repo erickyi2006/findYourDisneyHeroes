@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.9] - 29-Aug-2020
+### Added
+Added heroes - Angel, Basil
+Added collections - Blind, Freeze, Study, Attack Speedup, Attack Reduce
+
 ## [1.8] - 22-Aug-2020
 
 ### Added
