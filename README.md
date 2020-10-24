@@ -1,6 +1,12 @@
 # findYourDisneyHeroes
 Disney Heroes - helps to find your disney heroes 
 
+Spreadsheet: https://docs.google.com/spreadsheets/d/15c3YxqC4BzxlaXPo50VXUlbjYyG7Wed5yUo0EoCPPp4/edit?usp=sharing
+
+Demo App: http://13.229.70.212:8168/disney-heroes/
+
+Data entry spreadsheet replacement : http://13.229.70.212:8168/disney-admin#/
+
 ## Screenshots
 ### Main screen
 ![Welcome screen](images/main.png)
