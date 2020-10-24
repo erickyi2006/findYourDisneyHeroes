@@ -8,10 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.12] - 12-Oct-2020
+## [1.12] - 24-Oct-2020
 added missing locations
 added new heroes - Sadness, Kim.Possible
 Added new collection - Inside Out
+add friendships for Jessie
+Fixed Eeyore.wi to Eeyore.po
+Updated stats for October
 
 ## [1.11] - 11-Sep-2020
 Added heroes - Ian.Lightfoot
