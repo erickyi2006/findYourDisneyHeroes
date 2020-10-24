@@ -10,8 +10,8 @@ var FRIENDS = require("./input/lookupFriendships.json");
 
 const PRINT_OUTPUT = "matching [MATCH_COUNT]. found: [MATCHED]/[TOTAL]";
 const OUTPUT_FOLDER = "output/";
-const LIMIT = 50;
-var FILE = "./input/heroes-202008.csv";
+const LIMIT = 120;
+var FILE = "./input/heroes.csv";
 var COLLECTION_FILE = "./input/collections.csv";
 if (process.argv.length >= 3) {
     FILE = process.argv[2];
@@ -61,7 +61,7 @@ function loadCollection(filename, cb) {
                         for (var tokenIdx = 2; // skip the total
                             tokenIdx < tokens.length; tokenIdx++) {
                             var token = tokens[tokenIdx];
-                            if (token !== '-') {
+                            if (token !== '') {
                                 heroes.push(token);
                             }
                         }
@@ -305,6 +305,8 @@ function showMatches(data, popularHeroes, limit, matchCount) {
 }
 
 function loadTopRoles(lines, cb) {
+    var missingHeroes = JSON.parse(JSON.stringify(ROLES));
+
     var lookupTopRoles = {};
     for (var lineIdx = 0; lineIdx < lines.length; lineIdx++) {
         var line = lines[lineIdx];
@@ -314,6 +316,10 @@ function loadTopRoles(lines, cb) {
                 var hero = tokens[tokenIdx];
                 if (!_.isEmpty(hero)) {
                     if (ROLES[hero]) {
+                        if (missingHeroes[hero]) {
+                            missingHeroes[hero] = null; // remove it
+                        }
+
                         var role = ROLES[hero].role;
                         if (!lookupTopRoles[role]) {
                             lookupTopRoles[role] = {}
@@ -331,6 +337,20 @@ function loadTopRoles(lines, cb) {
                         console.error("WARN: " + line + " not found role [" + hero + "]");
                     }
                 }
+            }
+        }
+    }
+
+    for (var key in missingHeroes) {
+        if (missingHeroes[key]) {
+            var hero = key;
+            var role = ROLES[hero].role;
+            if (!lookupTopRoles[role]) {
+                lookupTopRoles[role] = {}
+            }
+            var lookupHero = lookupTopRoles[role];
+            if (!lookupHero[hero]) {
+                lookupHero[hero] = 0;
             }
         }
     }
@@ -549,7 +569,8 @@ async.waterfall(
             return cb(null);
         },
         function (cb) {
-            showMatches(heroesResult.data, heroesResult.popularHeroes, LIMIT, 5);
+            var newLimit = LIMIT - 50;
+            showMatches(heroesResult.data, heroesResult.popularHeroes, newLimit, 5);
             return cb(null);
         }
     ],

@@ -8,6 +8,37 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.12] - 24-Oct-2020
+added missing locations
+added new heroes - Sadness, Kim.Possible
+Added new collection - Inside Out
+add friendships for Jessie
+Fixed Eeyore.wi to Eeyore.po
+Updated stats for October
+
+## [1.11] - 11-Sep-2020
+Added heroes - Ian.Lightfoot
+Added friendships for Amelia, Sally, Slinky, Tigger
+
+### Changed
+Fixed Maximus ti friendship  (was Oogie)
+Fixed Stitch ma friendship (was Mad.Hatter)
+Fixed the overflow of the statistics table
+
+## [1.10] - 11-Sep-2020
+### Added
+Added heroes - Slinky, Amelia
+Added collections - Big Hero 6, Frozen, Muppets, Night Before Christmas, Tangled, Villains, Winnie the Pooh
+Change coordinates for Big Hero 6 to Tokyo (Baymax, Hiro)
+Change coordinates for Frozen to Norway (Elsa, Kristoff.Sven, Olaf)
+Change coordinates for Muppets (Animal, Gonzo, Miss Piggy)
+Change coordinates for Night Before Christmas to Halloweentown (Jack.Skellington, Oogie, Sally)
+Change coordinates for Toy Story (Bo Beep, Buzz, Ducky, Duke, Slinky, Woody, Rex, Zurg)
+Change coordinates for Tangled to Germany (Flynn Rider, Maximus, Rapunzel)
+Change coordinates for Winnie the Pooh to Ashdown Forest (Eeyore, Tigger, Winnie the Pooh)
+Change coordinates for Wreck it Ralph (Calhoun, Felix, Jessie, Ralph, Shank, Vanellope)
+Updated stats for September
+
 ## [1.9] - 29-Aug-2020
 ### Added
 Added heroes - Angel, Basil
@@ -16,7 +47,7 @@ Added collections - Blind, Freeze, Study, Attack Speedup, Attack Reduce
 ## [1.8] - 22-Aug-2020
 
 ### Added
-Added heroes - Davy.Jones,Goliath,Jumba,King.Louie,Kristoff.Sve,Li.Shang,Maximus,Mulan,Mushu,Shan.Yu,Syndrome
+Added heroes - Davy.Jones,Goliath,Jumba,King.Louie,Kristoff.Sven,Li.Shang,Maximus,Mulan,Mushu,Shan.Yu,Syndrome
 Added more heroes - Baloo,Belle,Cheshire.Cat,Eeyore,Evil.Queen,Minnie,Pleakley
 Added collections
 Updated stats for August
